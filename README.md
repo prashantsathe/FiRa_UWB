@@ -1,6 +1,10 @@
 # Fira
 
-Repo link https://github.com/prashantsathe/FiRa/tree/jcop_master
+Repo links
+
+https://github.com/prashantsathe/FiRa/tree/jcop_master
+
+https://github.com/prashantsathe/SusApplets/tree/Jcop_master
 
 ## Implementeded FiRa features
 
