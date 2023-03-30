@@ -1,5 +1,7 @@
 # Fira
 
+Repo link https://github.com/prashantsathe/FiRa/tree/jcop_master
+
 ## Implementeded FiRa features
 
 * Secure channel protocols
