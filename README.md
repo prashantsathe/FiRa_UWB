@@ -2,9 +2,9 @@
 
 Repo links
 
-https://github.com/prashantsathe/FiRa/tree/jcop_master
+https://github.com/prashantsathe/FiRa/tree/jcop_master  (private)
 
-https://github.com/prashantsathe/SusApplets/tree/Jcop_master
+https://github.com/prashantsathe/SusApplets/tree/Jcop_master (private)
 
 ## Overview
 
