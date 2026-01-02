@@ -1,5 +1,7 @@
 # Fira
 
+https://www.firaconsortium.org/certifications/technical-specifications
+
 Repo links
 
 https://github.com/prashantsathe/FiRa/tree/jcop_master (private)
